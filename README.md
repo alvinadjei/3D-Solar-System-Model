@@ -1,6 +1,6 @@
 # 3D Solar System Model
 
-Controls for navigating the simulation (Similar to Minecraft Creative Mode):
+Controls for navigating the simulation (Similar to Minecraft Creative Mode): \\
 WASD or Arrow keys: move forward, backward, sideways Spacebar: move up
 Left Shift: move down
 Mouse: look around
