@@ -5,7 +5,7 @@ On Mac: Expand and run CS175-SolarSystem-Mac.zip
 On Windows: Expand and run CS175-SolarSystem-Windows.zip
 
 Controls for navigating the simulation (Similar to Minecraft Creative Mode):  
-WASD or Arrow keys: move forward, backward, sideways
+WASD or Arrow keys: move forward, backward, sideways  
 Spacebar: move up  
 Left Shift: move down  
 Mouse: look around  
